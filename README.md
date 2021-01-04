@@ -6,6 +6,11 @@ DoubleU, was established in March 2020 during Corona Virus era where social dist
 Double U's product is consisted of an Android application for the volunteers, and a physical button for the elderly, which can be placed anywhere in their home.
 
 DoubleU is a technological prototype that was created by students of the Media Innovation Lab of the School of Communication of IDC Herzliya. 
+
 http://milab.idc.ac.il/teaching/projects/doubleu/
 https://www.idc.ac.il/en/pages/home.aspx 
 http://milab.idc.ac.il
+
+Here is a short video about the product:
+
+[![Alt text](https://img.youtube.com/vi/1jJ-Z_mN1_w/0.jpg)](https://youtu.be/1jJ-Z_mN1_w)
